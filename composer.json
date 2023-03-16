@@ -1,0 +1,14 @@
+{
+    "name": "letsbook/redis-debug",
+    "type": "project",
+    "require": {
+        "ext-redis": "*",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Let's Book",
+            "email": "tech@lets-book.com"
+        }
+    ]
+}
