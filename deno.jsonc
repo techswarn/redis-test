@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "api": "deno task --cwd ./api start"
+  },
+  "lock": false
+}

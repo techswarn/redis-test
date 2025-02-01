@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "start": "deno run -A --unsafely-ignore-certificate-errors --watch=src/ ./src/main.ts"
+  },
+  "compilerOptions": {
+    "lib": ["dom", "deno.ns", "deno.unstable"]
+  },
+  "importMap": "../import_map.json",
+  "lock": false
+}
